@@ -15,6 +15,11 @@
 		05C429C71FD1BA62008E2172 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C429C51FD1BA62008E2172 /* Main.storyboard */; };
 		05C429C91FD1BA63008E2172 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05C429C81FD1BA63008E2172 /* Assets.xcassets */; };
 		05C429CC1FD1BA63008E2172 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C429CA1FD1BA63008E2172 /* LaunchScreen.storyboard */; };
+		05C429D71FD1BC99008E2172 /* 2Pac.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 05C429D31FD1BC99008E2172 /* 2Pac.jpeg */; };
+		05C429D81FD1BC99008E2172 /* Leonardo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 05C429D41FD1BC99008E2172 /* Leonardo.jpeg */; };
+		05C429D91FD1BC99008E2172 /* Drake.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 05C429D51FD1BC99008E2172 /* Drake.jpeg */; };
+		05C429DA1FD1BC99008E2172 /* Nick.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 05C429D61FD1BC99008E2172 /* Nick.jpeg */; };
+		05C429DC1FD1CAE9008E2172 /* ParticulaFogo.sks in Resources */ = {isa = PBXBuildFile; fileRef = 05C429DB1FD1CAE9008E2172 /* ParticulaFogo.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +33,11 @@
 		05C429C81FD1BA63008E2172 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05C429CB1FD1BA63008E2172 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		05C429CD1FD1BA63008E2172 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05C429D31FD1BC99008E2172 /* 2Pac.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2Pac.jpeg; sourceTree = "<group>"; };
+		05C429D41FD1BC99008E2172 /* Leonardo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Leonardo.jpeg; sourceTree = "<group>"; };
+		05C429D51FD1BC99008E2172 /* Drake.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Drake.jpeg; sourceTree = "<group>"; };
+		05C429D61FD1BC99008E2172 /* Nick.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nick.jpeg; sourceTree = "<group>"; };
+		05C429DB1FD1CAE9008E2172 /* ParticulaFogo.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = ParticulaFogo.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +70,10 @@
 		05C429BA1FD1BA62008E2172 /* JogoDemoSK */ = {
 			isa = PBXGroup;
 			children = (
+				05C429D31FD1BC99008E2172 /* 2Pac.jpeg */,
+				05C429D41FD1BC99008E2172 /* Leonardo.jpeg */,
+				05C429D51FD1BC99008E2172 /* Drake.jpeg */,
+				05C429D61FD1BC99008E2172 /* Nick.jpeg */,
 				05C429BB1FD1BA62008E2172 /* AppDelegate.swift */,
 				05C429BD1FD1BA62008E2172 /* GameScene.sks */,
 				05C429BF1FD1BA62008E2172 /* Actions.sks */,
@@ -69,6 +83,7 @@
 				05C429C81FD1BA63008E2172 /* Assets.xcassets */,
 				05C429CA1FD1BA63008E2172 /* LaunchScreen.storyboard */,
 				05C429CD1FD1BA63008E2172 /* Info.plist */,
+				05C429DB1FD1CAE9008E2172 /* ParticulaFogo.sks */,
 			);
 			path = JogoDemoSK;
 			sourceTree = "<group>";
@@ -135,8 +150,13 @@
 				05C429C71FD1BA62008E2172 /* Main.storyboard in Resources */,
 				05C429BE1FD1BA62008E2172 /* GameScene.sks in Resources */,
 				05C429C91FD1BA63008E2172 /* Assets.xcassets in Resources */,
+				05C429D71FD1BC99008E2172 /* 2Pac.jpeg in Resources */,
 				05C429CC1FD1BA63008E2172 /* LaunchScreen.storyboard in Resources */,
+				05C429D91FD1BC99008E2172 /* Drake.jpeg in Resources */,
 				05C429C01FD1BA62008E2172 /* Actions.sks in Resources */,
+				05C429DA1FD1BC99008E2172 /* Nick.jpeg in Resources */,
+				05C429DC1FD1CAE9008E2172 /* ParticulaFogo.sks in Resources */,
+				05C429D81FD1BC99008E2172 /* Leonardo.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
